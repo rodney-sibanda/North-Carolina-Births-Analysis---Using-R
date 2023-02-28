@@ -49,6 +49,17 @@ In 2004, the state of North Carolina released to the public a large data set con
 
 Therefore, we can conclude that there is a statistically significant relationship between the birthweight of the baby and the race of the mother, with babies born to white mothers being, on average, slightly heavier than babies born to non-white mothers. However, the effect size is small, and other factors, such as the health status of the mother, may play a more significant role in determining birthweight.
 
+## Regression Analysis 
+
+We can use the summary to predict the birthweights of baby's born to white mothers and baby's born to non-white mothers
+
+Weight (white mother) = 6.72 + (0.531)⋅(1) = 7.251 pounds
+
+Weight (non white mother) = 6.72 + (0.531)⋅(0) = 6.72 pounds
+
+As we can see, the birthweight is predicted to be 7.251 pounds for babies born to white mothers and 6.72 pounds for babies born to nonwhite mothers.
+
+
 # Confidence Interval for 𝛽<sub>1</sub>
 
 ![image](https://user-images.githubusercontent.com/126027138/221381675-770b6d5a-4451-465c-831d-1c239e1d51c2.png)
