@@ -24,7 +24,7 @@ In 2004, the state of North Carolina released to the public a large data set con
     - marital - Whether mother is married or not married at birth.
     - whitemom - Whether mom is white or not white.
 
-# Downloading and working with 
+# Downloading and working with Data
 
 ![image](https://user-images.githubusercontent.com/126027138/221380927-e1ff6758-edd1-4725-9b0f-e78da8b5f2ca.png)
 
