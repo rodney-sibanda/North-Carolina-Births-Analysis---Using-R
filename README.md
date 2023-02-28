@@ -32,7 +32,8 @@ In 2004, the state of North Carolina released to the public a large data set con
 
 # Plot of Birthweight
 
-![image](https://user-images.githubusercontent.com/126027138/221381059-2da85949-6462-4977-9b9d-3e6ae406270a.png)
+![image](https://user-images.githubusercontent.com/126027138/221910162-e0e1ab7b-8df8-4d86-ba0d-f82be964f2fe.png)
+
 
 - Plotted using weight (response) against mother's race, whitemom (explanatory)
 - There does appear to be an association between birthweight and the race of the mother. The weight of babies born to white mothers tend to be greater than the weight of babies born to non white mothers. The median weight is slightly higher for white mothers and the boxplot is shifted slightly higher.
